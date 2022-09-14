@@ -1,7 +1,16 @@
-body{
+body {
+    background: #000000;
+    color: aliceblue;
+}
+main {
     text-align: center;
-    background: #d00000
+    
 }
 #slogan{
-    font-size: 25px:
+   font-size: 25px
 }
+.capa{
+    width: 80%;
+    height: 58%;
+}
+.Beneficios
